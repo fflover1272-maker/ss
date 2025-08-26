@@ -1,0 +1,5 @@
+requests
+rich
+pyfiglet
+python-cfonts
+user_agent
